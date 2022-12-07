@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/dreeeik">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dreeeik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreeeik01&layout=compact&langs_count=7&theme=dracula"/>
-  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=dreeeik01&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreeeik&layout=compact&langs_count=7&theme=dracula"/>
+  <img height='160em' src='https://github-readme-streak-stats.herokuapp.com?user=dreeeik&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
   
   <div style="display: inline_block"><br>
