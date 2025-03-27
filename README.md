@@ -1,3 +1,20 @@
+```javascript
+const dreik = {
+    name: "Dreik Henrique",
+    age: 26,
+    email: "dreik2311@gmail.com",
+    role: "Full Stack Developer",
+    skills: ["JavaScript", "TypeScript", "Java", "Node.js", "React"],
+    introduce() {
+        console.log(`Olá, sou ${this.name}, ${this.age} anos, atuando como ${this.role}.`);
+        console.log("Minhas principais tecnologias são:", this.skills.join(", "));
+    }
+};
+
+dreik.introduce();
+```
+
+
 <div align="center">
   <a href="https://github.com/dreeeik">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dreeeik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,18 +35,3 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-```javascript
-const dreik = {
-    name: "Dreik Henrique",
-    age: 26,
-    email: "dreik2311@gmail.com",
-    role: "Full Stack Developer",
-    skills: ["JavaScript", "TypeScript", "Java", "Node.js", "React"],
-    introduce() {
-        console.log(`Olá, sou ${this.name}, ${this.age} anos, atuando como ${this.role}.`);
-        console.log("Minhas principais tecnologias são:", this.skills.join(", "));
-    }
-};
-
-dreik.introduce();
-```
