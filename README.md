@@ -11,7 +11,7 @@ const developer = {
     }
 };
 
-dreik.introduce();
+developer.introduce();
 ```
 
 
