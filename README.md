@@ -1,5 +1,5 @@
 ```javascript
-const dreik = {
+const developer = {
     name: "Dreik Henrique",
     age: 26,
     email: "dreik2311@gmail.com",
